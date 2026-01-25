@@ -1,3 +1,7 @@
+/*
+Feedback: nicely written code :)
+*/
+
 /** Checks if a given string is a palindrome. */
 public class Palindrome {
 
@@ -15,4 +19,5 @@ public class Palindrome {
 		}
 		return false;
     }
+
 }
